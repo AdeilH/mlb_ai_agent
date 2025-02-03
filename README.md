@@ -12,3 +12,7 @@ generate_intraday_data.py: Generates the intraday data for the player using the 
 
 ai_agent.py: Uses the Gemini API to analyze the data and make trading decisions.
 
+
+### Disclaimer
+
+This project is for educational purposes only. The stock market is a complex system and this project does not constitute financial advice. And I couldn't deploy the project to a public server, so I can't provide a way to test it.
