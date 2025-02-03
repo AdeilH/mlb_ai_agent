@@ -1,0 +1,1025 @@
+{
+  "generated_at": "2025-02-01T18:12:37.261000",
+  "events": {
+    "642758": [
+      {
+        "time": "12:00 PM",
+        "headline": "Acevedo's ERA Impresses Scouts",
+        "description": "Consistent low earned run average draws attention from multiple teams",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:30 AM",
+        "headline": "Injury Report Raises Concerns",
+        "description": "Minor injury surfaces, affecting potential trade discussions",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "9:30 AM",
+        "headline": "Trade Rumors Swirl",
+        "description": "Multiple sources report potential interest from rival teams",
+        "category": "market",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "10:15 AM",
+        "headline": "League Enacts Rule Changes",
+        "description": "New regulations introduced, potentially impacting pitcher performance",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Team Signs Top Prospect",
+        "description": "Highly-touted young pitcher joins organization, adding competition",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Acevedo's Agent Seeks Contract Extension",
+        "description": "Negotiations begin, potentially affecting market value",
+        "category": "personal",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Market Demand for Pitchers Dips",
+        "description": "Recent struggles by other pitchers lower overall interest in the market",
+        "category": "market",
+        "sentiment": "negative"
+      }
+    ],
+    "670183": [
+      {
+        "time": "9:45 AM",
+        "headline": "Acton's ERA Dips Below 3.00",
+        "description": "Garrett Acton's ERA drops to 2.97 after a dominant outing against the division rivals",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:05 AM",
+        "headline": "League Approves Rule Changes",
+        "description": "MLB announces implementation of new rules aimed at increasing pace of play",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Cross-League Trade Rumors Heat Up",
+        "description": "Reports emerge of potential blockbuster trades involving top prospects across the American and National Leagues",
+        "category": "market",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "1:50 PM",
+        "headline": "Acton Named All-Star Starter",
+        "description": "Garrett Acton selected as a starting pitcher for the upcoming All-Star Game",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "Team Announces New Stadium Plans",
+        "description": "Acton's team unveils plans for a state-of-the-art stadium with enhanced fan amenities",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:10 PM",
+        "headline": "Injury Concerns Surface for Acton",
+        "description": "Reports indicate Acton has been experiencing minor discomfort in his pitching arm",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "League Announces Expansion Plans",
+        "description": "MLB confirms plans to expand to two new cities, increasing the number of teams in the league",
+        "category": "league",
+        "sentiment": "positive"
+      }
+    ],
+    "542583": [
+      {
+        "time": "10:30 AM",
+        "headline": "Aguilar Traded to AL East Contender",
+        "description": "Aguilar joins a potent lineup looking to bolster their playoff chances.",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:15 AM",
+        "headline": "MLB Enacts New Batting Regulations",
+        "description": "League implements rule changes aimed at increasing offense and reducing strikeouts.",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:00 PM",
+        "headline": "Aguilar Slumps in Recent Weeks",
+        "description": "Aguilar's batting average and home run production have declined in the past month.",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Injury Concerns Surface for Aguilar",
+        "description": "Reports emerge of a nagging lower back issue that could impact his performance.",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "Market for First Basemen Heats Up",
+        "description": "Several contending teams express interest in acquiring a power-hitting first baseman.",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Aguilar's Agent Disputes Injury Rumors",
+        "description": "Agent vehemently denies reports of any significant health issues for Aguilar.",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "Rival Team Makes a Strong Offer for Aguilar",
+        "description": "An unnamed team submits a trade package that includes a promising young pitcher.",
+        "category": "team",
+        "sentiment": "positive"
+      }
+    ],
+    "669397": [
+      {
+        "time": "9:45 AM",
+        "headline": "Athletics Sign Star Pitcher",
+        "description": "Oakland acquires All-Star pitcher in blockbuster trade, bolstering their rotation",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "MLB Implements New Shift Restrictions",
+        "description": "League announces rule changes limiting defensive shifts, impacting infield positioning",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Rays Acquire Top Reliever",
+        "description": "Tampa Bay lands All-Star closer in major trade, strengthening their bullpen",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "Injury Update: Allen Out with Ankle Sprain",
+        "description": "Team confirms Nick Allen will miss several weeks with an ankle injury",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:45 PM",
+        "headline": "MLB Extends Deadline for International Free Agent Signings",
+        "description": "League announces extension of signing deadline for international prospects, providing more time for negotiations",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "3:15 PM",
+        "headline": "Yankees Ink Long-Term Deal with Shortstop Star",
+        "description": "New York secures star shortstop with record-breaking contract extension",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "Baseball Market Heats Up as Trade Rumors Swirl",
+        "description": "Speculation intensifies surrounding potential trades ahead of the deadline, with several teams expressing interest in shortstops",
+        "category": "market",
+        "sentiment": "neutral"
+      }
+    ],
+    "621112": [
+      {
+        "time": "9:45 AM",
+        "headline": "A's Trade for Starting Pitcher",
+        "description": "Oakland acquires experienced veteran to bolster rotation",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "10:15 AM",
+        "headline": "MLB Announces New Pitching Rule",
+        "description": "League introduces strict restrictions on mound visits and pitcher-catcher communication",
+        "category": "league",
+        "sentiment": "negative"
+      },
+      {
+        "time": "11:30 AM",
+        "headline": "Blackburn Shows Dominance in Simulation Game",
+        "description": "Player showcases impressive performance in controlled environment",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:45 PM",
+        "headline": "Bullpen Struggles for A's",
+        "description": "Relief pitching falters in recent outings, raising concerns",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Expert Analysis Predicts Breakout Season for Blackburn",
+        "description": "Analysts rave about player's potential and project stellar numbers",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:45 PM",
+        "headline": "Injury Report: Blackburn Raises Minor Concern",
+        "description": "Manager discloses slight discomfort, but no impact on availability",
+        "category": "personal",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "No Agreement in Blackburn Contract Negotiations",
+        "description": "Talks with A's reach standstill, trade rumors intensify",
+        "category": "market",
+        "sentiment": "negative"
+      }
+    ],
+    "668709": [
+      {
+        "time": "9:30 AM",
+        "headline": "MLB Trade Deadline Approaching",
+        "description": "The MLB trade deadline is approaching on July 31st, which could affect teams' decisions to sign free agents or make trades.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "10:15 AM",
+        "headline": "Miami Marlins Acquire New Outfielder",
+        "description": "The Miami Marlins have acquired outfielder Bryan De La Cruz from the Tampa Bay Rays in exchange for a minor league prospect.",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "MLB Extends Drug Testing Policy",
+        "description": "Major League Baseball announces an extension of its drug testing policy, including increased testing for performance-enhancing drugs.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "JJ Bleday Suffers Minor Injury",
+        "description": "JJ Bleday suffers a minor hamstring strain during batting practice, potentially affecting his availability for upcoming games.",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Baseball Market Shows Signs of Slowdown",
+        "description": "MLB Insider reports a cooling off of the free agent market, potentially impacting contract negotiations for players like JJ Bleday.",
+        "category": "market",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "New CBA Proposal Emerges",
+        "description": "MLB and the MLBPA release a new proposal for a collective bargaining agreement, which could impact player salaries and free agency rules.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Miami Marlins Consider Roster Changes",
+        "description": "Manager suggests the possibility of roster adjustments, including potential playing time changes for JJ Bleday.",
+        "category": "team",
+        "sentiment": "negative"
+      }
+    ],
+    "671212": [
+      {
+        "time": "9:30 AM",
+        "headline": "Boyle Shines in Spring Training Debut",
+        "description": "Impressive outing boosts confidence and raises expectations",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "In-Division Rival Acquires Superstar Pitcher",
+        "description": "Top contender strengthens pitching staff, creating more competition for Boyle",
+        "category": "league",
+        "sentiment": "negative"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "MLB Announces Expanded Playoffs",
+        "description": "Increased postseason opportunities enhance Boyle's value",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Boyle's Team Struggles in Preseason",
+        "description": "Team's lackluster performance raises concerns about Boyle's support",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "New Injury Concerns Emerge for Boyle",
+        "description": "Minor ailment surfaces, raising red flags about his durability",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Industry Experts Predict Record-Breaking Contract for Top Pitchers",
+        "description": "Positive market forecast suggests potential for a lucrative deal for Boyle",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Boyle Requests Trade from Struggling Team",
+        "description": "Frustrated with team's performance, Boyle seeks a move to a more competitive environment",
+        "category": "personal",
+        "sentiment": "neutral"
+      }
+    ],
+    "681146": [
+      {
+        "time": "9:45 AM",
+        "headline": "Batter's Box Expansion",
+        "description": "League approves wider batter's boxes for next season",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "Strike Zone Adjustment Proposal",
+        "description": "Commissioner suggests reducing strike zone",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Trade Rumors Swirl",
+        "description": "Team in talks to acquire Jonah Bride",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Power Surge Expected",
+        "description": "Analysts forecast increase in home runs",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "New Ball Inducted",
+        "description": "League introduces ball with improved grip",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:30 PM",
+        "headline": "Sabermetrics Revolution",
+        "description": "Teams increasingly relying on advanced analytics",
+        "category": "market",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "3:50 PM",
+        "headline": "Jonah Bride's Stellar Performance",
+        "description": "Bride goes 4-for-5 with 3 RBIs",
+        "category": "personal",
+        "sentiment": "positive"
+      }
+    ],
+    "664913": [
+      {
+        "time": "9:30 AM",
+        "headline": "Oakland A's Fall to 0-7",
+        "description": "A's offense struggles as pitching staff fails to keep up",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "10:15 AM",
+        "headline": "MLB Announces New Rule Changes",
+        "description": "Shift restrictions and pitch clock implemented for 2023 season",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "Seth Brown Named AL Player of the Week",
+        "description": "Brown's hot hitting streak earns recognition",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "A's Acquire Outfielder in Trade",
+        "description": "Oakland adds another left-handed bat to the roster",
+        "category": "team",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "MLB Rumors: Astros Show Interest in Seth Brown",
+        "description": "Houston Astros reportedly exploring trade for A's outfielder",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "A's Extend Losing Streak to Eight",
+        "description": "Team's struggles continue as they fail to produce runs",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Baseball Market Expected to Remain Stable",
+        "description": "Analysts predict minimal movement in player values during upcoming trade deadline",
+        "category": "market",
+        "sentiment": "neutral"
+      }
+    ],
+    "671732": [
+      {
+        "time": "9:30 AM",
+        "headline": "Lawrence Butler Traded to New Team",
+        "description": "Butler has been traded to the Los Angeles Dodgers for a package of prospects",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "New League Rule Implemented",
+        "description": "New rule to reduce number of innings pitched by starting pitchers",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:00 PM",
+        "headline": "Butler Named All-Star Starter",
+        "description": "Butler selected to represent the National League in the All-Star Game",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Butler Suffers Minor Injury",
+        "description": "Butler diagnosed with a strained hamstring, expected to miss 2-3 weeks",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Baseball Market Sees Surge in Demand",
+        "description": "Increased interest from international leagues drives up player salaries",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Dodgers Acquire Top Prospect",
+        "description": "Dodgers acquire top pitching prospect in a major trade",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Butler Returns from Injury",
+        "description": "Butler makes successful return to lineup, hitting a home run in his first at-bat",
+        "category": "personal",
+        "sentiment": "positive"
+      }
+    ],
+    "668843": [
+      {
+        "time": "9:30 AM",
+        "headline": "Blue Jays Acquire Outfielder in Trade",
+        "description": "Toronto acquires LF prospect, potentially challenging Capel's playing time",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "MLB Announces New Batting Regulations",
+        "description": "Rule changes favor power hitters, enhancing Capel's value",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:15 PM",
+        "headline": "Yankees Sign Free Agent Slugger",
+        "description": "New York's acquisition of a veteran hitter may reduce playing opportunities for Capel",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "National League Implements Designated Hitter",
+        "description": "Expansion of DH role creates more potential suitors and competition for Capel",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Conner Capel Named to All-Star Team",
+        "description": "Midseason recognition boosts Capel's reputation and market appeal",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:15 PM",
+        "headline": "Baseball Market Heats Up Ahead of Trade Deadline",
+        "description": "Increased demand for experienced outfielders enhances Capel's trade value",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Injury Report: Conner Capel Day-to-Day",
+        "description": "Minor injury concern temporarily stalls trade discussions and market value",
+        "category": "personal",
+        "sentiment": "negative"
+      }
+    ],
+    "649557": [
+      {
+        "time": "9:30 AM",
+        "headline": "D\u00edaz Shines in Simulated Game",
+        "description": "SS D\u00edaz impresses in simulated game with strong defensive play and timely hits",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:20 AM",
+        "headline": "League Unveils New Salary Cap Rule",
+        "description": "League board approves revised salary cap, potentially impacting player contracts",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:45 PM",
+        "headline": "Top Prospect Emerges at Shortstop",
+        "description": "Highly touted prospect performs exceptionally in farm league showcase, raising questions about Diaz's future role",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Major Trade Rocks Division",
+        "description": "Contending team acquires All-Star shortstop, increasing competition for Diaz's services",
+        "category": "market",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "Injury Bug Bites Diaz",
+        "description": "Diaz suffers minor injury in practice, potentially affecting his availability for upcoming games",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:10 PM",
+        "headline": "Rising Star Hits 2 Grand Slams",
+        "description": "Rising shortstop has breakout performance with multiple grand slams in back-to-back games",
+        "category": "market",
+        "sentiment": "negative"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Diaz's Market Value Soars",
+        "description": "Despite challenges, Diaz's strong performance and key defensive plays bolster his value in the market",
+        "category": "market",
+        "sentiment": "positive"
+      }
+    ],
+    "672478": [
+      {
+        "time": "9:30 AM",
+        "headline": "Second Baseman Suffers Injury in Practice",
+        "description": "Jordan Diaz was diagnosed with a minor hamstring strain.",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "11:15 AM",
+        "headline": "League Announces Rule Changes for Upcoming Season",
+        "description": "New rules focus on improving pace of play and reducing injuries.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:45 PM",
+        "headline": "Rival Team Makes Trade for All-Star Second Baseman",
+        "description": "A contender acquires a highly sought-after second baseman, creating competition for Diaz's services.",
+        "category": "market",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:30 PM",
+        "headline": "Diaz Demonstrates Versatility in Spring Training",
+        "description": "Diaz showcases impressive fielding skills at multiple infield positions.",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "League Reports Decline in Overall Batting Averages",
+        "description": "Analysis suggests a league-wide shift towards pitching dominance.",
+        "category": "market",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Team Acquires Veteran Catcher in Trade",
+        "description": "The move strengthens the team's defense and provides mentoring opportunities for Diaz.",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Diaz Named to Spring Training All-Star Team",
+        "description": "Recognition for his strong performance in early spring training games.",
+        "category": "personal",
+        "sentiment": "positive"
+      }
+    ],
+    "668674": [
+      {
+        "time": "9:45 AM",
+        "headline": "Erceg's Outstanding Performance Earns Praise",
+        "description": "Impressive outing against the rival team, showcasing pinpoint control and devastating curveball",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "10:45 AM",
+        "headline": "MLB Unveils New Rule Changes",
+        "description": "League implements modifications to the ball's composition for the upcoming season",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "11:15 AM",
+        "headline": "Rival Team Expresses Interest in Erceg",
+        "description": "Reports emerge of a potential trade offer involving Erceg",
+        "category": "team",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:15 PM",
+        "headline": "Erceg Named to All-Star Team",
+        "description": "Exceptional first half of the season results in selection for the prestigious midseason event",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Bullpen Struggles Weigh Down Team",
+        "description": "Team's inability to secure late-inning leads raises concerns about potential playoff run",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Injury Concerns Surround Erceg",
+        "description": "Minor shoulder discomfort during recent outing prompts further evaluation",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "MLB Announce Changes to Luxury Tax Threshold",
+        "description": "League increases the spending limit for teams, potentially impacting the free agent market",
+        "category": "league",
+        "sentiment": "neutral"
+      }
+    ],
+    "683155": [
+      {
+        "time": "9:30 AM",
+        "headline": "Estes Shines in Spring Training Debut",
+        "description": "Impresses with 6 strikeouts and no runs allowed in 3 innings pitched",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "League Announces Rule Changes",
+        "description": "New regulations implemented to increase pitching accuracy",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Rival Team Expresses Interest in Estes",
+        "description": "Contending team inquires about potential trade",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:15 PM",
+        "headline": "Estes Experiences Minor Setback",
+        "description": "Mild elbow discomfort detected during practice",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:00 PM",
+        "headline": "Team Announces Extension of Manager",
+        "description": "Establishes stability and continuity within the organization",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "League Considers Salary Cap Implementation",
+        "description": "Potential impact on player contracts and team spending",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "Rival Pitcher Suffers Season-Ending Injury",
+        "description": "Creates increased demand for quality pitching talent",
+        "category": "market",
+        "sentiment": "positive"
+      }
+    ],
+    "544727": [
+      {
+        "time": "9:30 AM",
+        "headline": "Mets Acquire Top Prospect Relief Pitcher",
+        "description": "New York Mets trade for young, high-potential reliever who could potentially replace Familia in the closer role.",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "10:00 AM",
+        "headline": "MLB Announces New Pitch Clock Rule",
+        "description": "League implements new rule limiting the time pitchers have to throw each pitch, potentially impacting Familia's pace and effectiveness.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "11:15 AM",
+        "headline": "Familia's Velocity Dips in Offseason Workouts",
+        "description": "Reports emerge that Familia's fastball velocity has decreased in recent throwing sessions, raising concerns about his arm strength.",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Yankees Linked to Familia in Trade Rumors",
+        "description": "New York Yankees reportedly interested in acquiring Familia, potentially setting up a move to a contending team.",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Market for Relief Pitchers Heats Up",
+        "description": "High demand for experienced relief pitchers leads to increased salaries and interest in Familia's services.",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Familia Impresses in Spring Training Debut",
+        "description": "Familia showcases strong velocity and command in his first spring training outing, boosting his market value.",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Mets Sign Free Agent Closer",
+        "description": "Mets add experienced closer to their bullpen, potentially reducing Familia's role and value on the team.",
+        "category": "team",
+        "sentiment": "negative"
+      }
+    ],
+    "665734": [
+      {
+        "time": "9:45 AM",
+        "headline": "Felipe's Injury Raises Concerns",
+        "description": "Reports of a minor shoulder strain in spring training",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "10:15 AM",
+        "headline": "League Updates Pitching Regulations",
+        "description": "New rules aim to reduce mound visits and increase pace of play",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "Rival Team Expresses Interest",
+        "description": "Rumors of a potential trade involving Felipe surface",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Team Signs Elite Reliever",
+        "description": "Addition of an All-Star caliber closer strengthens the bullpen",
+        "category": "team",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Felipe Dominates in Spring Training Debut",
+        "description": "Impressive performance showcases his recovery and readiness",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Market Value Remains Stable Despite Injury",
+        "description": "Analysts believe Felipe's long-term potential outweighs current injury concerns",
+        "category": "market",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "League Considers New Pitching Limit",
+        "description": "Proposal to restrict innings pitched for young pitchers",
+        "category": "league",
+        "sentiment": "negative"
+      }
+    ],
+    "660261": [
+      {
+        "time": "9:30 AM",
+        "headline": "Fujinami's ERA Improves to 2.8",
+        "description": "Strong outing against division rival lowers season ERA",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "Rival Team Expresses Interest in Fujinami",
+        "description": "Contending team rumored to be exploring trade possibilities",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "New Rule Changes to Impact Pitching Stats",
+        "description": "League introduces new regulations governing mound visits and pitch counts",
+        "category": "league",
+        "sentiment": "negative"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Fujinami Named to All-Star Team",
+        "description": "Recognition for standout first half performance",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:15 PM",
+        "headline": "Team Struggling in Division Race",
+        "description": "Fujinami's team falls further behind divisional leaders",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "Injury Concerns for Fujinami",
+        "description": "Minor shoulder discomfort raises questions about availability",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Hot Stove League Heats Up",
+        "description": "Trade rumors swirling as teams prepare for upcoming deadline",
+        "category": "market",
+        "sentiment": "neutral"
+      }
+    ],
+    "670329": [
+      {
+        "time": "9:30 AM",
+        "headline": "Garcia Dominates in Spring Training Debut",
+        "description": "Strikes out 6 batters in 3 innings pitched, lowers ERA to 0.00",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "11:00 AM",
+        "headline": "League Announces New Pitch Clock Rules",
+        "description": "Pitchers will have 15 seconds to throw with bases empty, 20 seconds with runners on",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "12:30 PM",
+        "headline": "Garcia's Team Struggling in Preseason Games",
+        "description": "Team has lost 4 straight exhibition games, raising concerns about team's form",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "2:00 PM",
+        "headline": "Opposing Team Interested in Acquiring Garcia",
+        "description": "Rival team reportedly offering a top prospect for a trade",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "MLB Announces New Postseason Format",
+        "description": "Top 6 teams in each league will qualify for playoffs, expanding from current 5-team format",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:15 PM",
+        "headline": "Garcia Experiences Minor Injury in Practice",
+        "description": "Right shoulder discomfort forces Garcia to leave practice session early",
+        "category": "personal",
+        "sentiment": "negative"
+      },
+      {
+        "time": "4:00 PM",
+        "headline": "Garcia's Agent Responds to Trade Rumors",
+        "description": "Agent denies any ongoing discussions, says Garcia is focused on team's success",
+        "category": "market",
+        "sentiment": "neutral"
+      }
+    ],
+    "680869": [
+      {
+        "time": "9:30 AM",
+        "headline": "Blue Jays Acquire All-Star Shortstop",
+        "description": "Toronto Blue Jays trade for three-time Gold Glove winner and two-time Silver Slugger at a key infield position.",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "10:30 AM",
+        "headline": "MLB Implements New Pitch Clock",
+        "description": "League-wide rule change shortens game time, emphasizing pace of play.",
+        "category": "league",
+        "sentiment": "neutral"
+      },
+      {
+        "time": "11:55 AM",
+        "headline": "Gelof's Minor League Stats Surge",
+        "description": "Player's batting average, home runs, and stolen bases see significant improvement.",
+        "category": "personal",
+        "sentiment": "positive"
+      },
+      {
+        "time": "1:45 PM",
+        "headline": "Rival Team Expresses Interest in Gelof",
+        "description": "Another MLB team reportedly eyeing a potential trade for the promising second baseman.",
+        "category": "market",
+        "sentiment": "positive"
+      },
+      {
+        "time": "2:30 PM",
+        "headline": "Injury Concerns for Gelof's Teammate",
+        "description": "Key player on Gelof's current team suffers a season-ending injury.",
+        "category": "team",
+        "sentiment": "negative"
+      },
+      {
+        "time": "3:00 PM",
+        "headline": "MLB Announces Plans for Expansion",
+        "description": "League announces plans to add two new teams in the near future.",
+        "category": "league",
+        "sentiment": "positive"
+      },
+      {
+        "time": "3:45 PM",
+        "headline": "Gelof's Agent Demands Trade",
+        "description": "Player's agent publicly requests a trade due to lack of playing time.",
+        "category": "personal",
+        "sentiment": "negative"
+      }
+    ]
+  }
+}
